@@ -1,4 +1,4 @@
-# TNNLS-2023 -- dEIRL
+# TNNLS-2023 -- Decentralized Excitable Integral Reinforcement Learning (dEIRL)
 
 Brent Wallace 2023/05/25 Arizona State University
 
